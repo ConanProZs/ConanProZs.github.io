@@ -1,3 +1,3 @@
-# www.conansite.ga
+# conansite.ga
 ## www.conansite.net
 
